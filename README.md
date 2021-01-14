@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a project called **Knecthub**, will be launching soon! 🚀
 
-- 📫 Have an interesting business ideas? **hi@davidkhierl.com**
+- 🤝 Have an interesting business ideas? **hi@davidkhierl.com**
 
 - 💙😡😘 Love and hate relationship with [Typescript](https://www.typescriptlang.org/)
 
