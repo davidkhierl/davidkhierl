@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Khierl</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Webartisan just fiddling the net.</h3>
 
 - 🔭 I’m currently working on **Knecthub**
 
