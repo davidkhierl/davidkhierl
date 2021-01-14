@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hi@davidkhierl.com**
 
-- 💙 I have love and hate relationship with [Typescript](https://www.typescriptlang.org/)
+- 💙😡😘 Love and hate relationship with [Typescript](https://www.typescriptlang.org/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidkhierl&show_icons=true&locale=en&layout=compact" alt="davidkhierl" /></p>
 
