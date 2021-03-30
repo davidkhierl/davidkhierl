@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm David Khierl</h1>
 <h3>Webartisan just fiddling the net.</h3>
 
-- 🔭 I’m currently working on a project called **Knecthub**, will be launching soon! 🚀
+- 🔭 I’m currently working on a personal project called **Knecthub**, will be launching soon! 🚀
 
 - 🤝 Have an interesting business ideas? **hi@davidkhierl.com**
 
